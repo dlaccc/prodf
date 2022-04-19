@@ -10,7 +10,7 @@ This is an example ready-to-deploy java web application built for Tomcat using M
 mvn package
 java -jar target/dependency/webapp-runner.jar target/*.war
 ```
-Funsho lasisi
+
 The application will be available on `http://localhost:8080`.
 
 ## How This Was Built
@@ -52,4 +52,4 @@ The application will be available on `http://localhost:8080`.
      </plugins>
    </build>
    ```
-MY NAME IS "YOUR NAME"
+MY NAME IS "Funsho"
